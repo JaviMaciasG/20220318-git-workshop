@@ -6,6 +6,8 @@
 clc, clear all, close all, 
 format longEng,
 
+nuevavariable=2;
+
 % Settings
 % --------
 DimEcran = get(0,'ScreenSize'); 
